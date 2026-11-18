@@ -1,6 +1,6 @@
-# Nebula – privacy policy
+# fernab – privacy policy
 
-The privacy policy of [Nebula](https://moorlark.github.io/privacy/), an Android app that uncovers a map of fog wherever you go. Served with GitHub Pages:
+The privacy policy of [fernab](https://moorlark.github.io/privacy/), an Android app that uncovers a map of fog wherever you go. Served with GitHub Pages:
 
 - English (authoritative): https://moorlark.github.io/privacy/
 - German: https://moorlark.github.io/privacy/de/

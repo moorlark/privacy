@@ -19,7 +19,7 @@ main { max-width: 720px; margin: 0 auto; padding: 48px 16px 64px; }
 .kicker {
   font: 500 12px/1.4 ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
   letter-spacing: .12em;
-  text-transform: uppercase;
+  text-transform: none;
   color: var(--lavender);
   margin: 0 0 8px;
 }
